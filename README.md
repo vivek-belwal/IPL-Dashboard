@@ -50,7 +50,11 @@ IPL-Analysis-Dashboard/
 └── dashboard-preview.png
 ```
 ## 📷 Dashboard View
-![image](Screenshots/1.png)
+### First View
+![image1](Screenshots/1.png)
+
+### Second View
+![image2](Screenshots/2.png)
 
 ## 🚀 How to Use
 
