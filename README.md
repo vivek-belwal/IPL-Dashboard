@@ -50,7 +50,6 @@ The dashboard provides insights into:
 ## 📁 Project Structure
 
 ```text
-│
 ├── IPL Dashboard.xlsx  
 ├── README.md  
 ├── matches.csv  
