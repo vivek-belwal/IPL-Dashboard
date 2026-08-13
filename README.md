@@ -50,16 +50,18 @@ The dashboard provides insights into:
 ## 📁 Project Structure
 
 ```text
-IPL-Analysis-Dashboard/
 │
-├── IPL_Dashboard.xlsx
-├── README.md
-└── dashboard-preview.png
+├── IPL Dashboard.xlsx  
+├── README.md  
+├── matches.csv  
+└── Screenshots  
+   ├── 1.png  
+   └── 2.png  
 ```
 
 ## 🚀 How to Use
 
-1. Download `IPL_Dashboard.xlsx`.
+1. Download `IPL Dashboard.xlsx`.
 2. Open the file in Microsoft Excel.
 3. Select a season using the interactive buttons.
 4. Explore the KPIs, charts, and graphs.
@@ -70,7 +72,7 @@ IPL-Analysis-Dashboard/
 
 ## 👨‍💻 Author
 
-**Vivek Belwal**
+[Vivek Belwal](https://github.com/vivek-belwal)
 
 ## 📌 Conclusion
 
