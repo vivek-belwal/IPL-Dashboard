@@ -4,6 +4,13 @@
 
 An interactive **Indian Premier League (IPL) Analysis Dashboard** created using **Microsoft Excel** to analyze IPL match data and present key insights through interactive charts, graphs, KPIs, and filters.
 
+## 📷 Dashboard View
+### First View
+![image1](Screenshots/1.png)
+
+### Second View
+![image2](Screenshots/2.png)
+
 ## 🎯 Objectives
 
 * Analyze IPL data from **2008–2024**.
@@ -49,12 +56,6 @@ IPL-Analysis-Dashboard/
 ├── README.md
 └── dashboard-preview.png
 ```
-## 📷 Dashboard View
-### First View
-![image1](Screenshots/1.png)
-
-### Second View
-![image2](Screenshots/2.png)
 
 ## 🚀 How to Use
 
