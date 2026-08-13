@@ -7,7 +7,7 @@ An interactive **Indian Premier League (IPL) Analysis Dashboard** created using 
 ## 📷 Dashboard
 ### 👁️ First View
 ![image1](Screenshots/1.png)
-
+---
 ### 👁️ Second View
 ![image2](Screenshots/2.png)
 
